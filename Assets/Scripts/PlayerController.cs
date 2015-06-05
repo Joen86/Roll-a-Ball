@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour {
 		{
 			speed = 30;
 		}
-		if (count >= 12)
+		if (count >= 14)
 		{
 			speed = 2;
 		}
